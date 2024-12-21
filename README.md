@@ -23,4 +23,14 @@ ideally try to enforce e() to be sparse, ie use as few input variable as possibl
 sort the Fi by decreasing order of significance
 
 
+enforce sparsity through regularization
+
+
+use KAN layer
+
+
+
+
+
 Goal : come out with Fi = g(Fj..k)
+for this : inverse the layers
